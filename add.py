@@ -1,7 +1,7 @@
 
 
 
-a=20
+a=2
 
 b=18
-print(a?*b)
+print(a*b)
